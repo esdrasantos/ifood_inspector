@@ -1,0 +1,3 @@
+[submodule "farejador-ifood"]
+	path = farejador-ifood
+	url = https://github.com/chrisvblemos/farejador-ifood
